@@ -30,5 +30,7 @@ Follow these steps to test locally:
 
 Refer to this site for card number testing -> https://docs.adyen.com/development-resources/testing/test-card-numbers/
 
-	
+Tools used for development:
+1. Visual studio
+2. Postman	
 
